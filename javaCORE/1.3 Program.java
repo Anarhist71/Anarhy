@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Third Program {
+public class ThirdProgram {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите число: ");
