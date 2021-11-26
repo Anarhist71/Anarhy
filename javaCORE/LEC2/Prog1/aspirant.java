@@ -1,4 +1,4 @@
-package lecture2.programm1;
+package LEC2.Prog1;
 
 public class Aspirant extends Student{
     String sci_work="JAVA LAnguage";
